@@ -1,0 +1,14 @@
+C:\Users\BRUNO.BIANCHI\source\repos\API-Sound\bin\Debug\net8.0\API-Sound.exe
+C:\Users\BRUNO.BIANCHI\source\repos\API-Sound\bin\Debug\net8.0\API-Sound.deps.json
+C:\Users\BRUNO.BIANCHI\source\repos\API-Sound\bin\Debug\net8.0\API-Sound.runtimeconfig.json
+C:\Users\BRUNO.BIANCHI\source\repos\API-Sound\bin\Debug\net8.0\API-Sound.dll
+C:\Users\BRUNO.BIANCHI\source\repos\API-Sound\bin\Debug\net8.0\API-Sound.pdb
+C:\Users\BRUNO.BIANCHI\source\repos\API-Sound\obj\Debug\net8.0\API-Sound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRUNO.BIANCHI\source\repos\API-Sound\obj\Debug\net8.0\API-Sound.AssemblyInfoInputs.cache
+C:\Users\BRUNO.BIANCHI\source\repos\API-Sound\obj\Debug\net8.0\API-Sound.AssemblyInfo.cs
+C:\Users\BRUNO.BIANCHI\source\repos\API-Sound\obj\Debug\net8.0\API-Sound.csproj.CoreCompileInputs.cache
+C:\Users\BRUNO.BIANCHI\source\repos\API-Sound\obj\Debug\net8.0\API-Sound.dll
+C:\Users\BRUNO.BIANCHI\source\repos\API-Sound\obj\Debug\net8.0\refint\API-Sound.dll
+C:\Users\BRUNO.BIANCHI\source\repos\API-Sound\obj\Debug\net8.0\API-Sound.pdb
+C:\Users\BRUNO.BIANCHI\source\repos\API-Sound\obj\Debug\net8.0\API-Sound.genruntimeconfig.cache
+C:\Users\BRUNO.BIANCHI\source\repos\API-Sound\obj\Debug\net8.0\ref\API-Sound.dll
